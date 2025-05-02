@@ -1,0 +1,38 @@
+MCQ
+_______
+
+1. What will be the output of the following Python code snippet?
+
+	x = [1, 2, 3]
+	y = x
+	y.append(4)
+	print(x)
+
+Options:
+A - [1, 2, 3]
+B - [1, 2, 3, 4]
+C - None
+D - Error: y is not defined
+
+
+2. Which of the following statements about Python’s map() function is true?
+
+Options:
+A - map() applies a given function to all elements of an iterable and returns a list.
+B - map() applies a given function to all elements of an iterable and returns an iterator.
+C - map() does not support lambda functions.
+D - map() can only be used with built-in Python functions, not custom functions.
+
+
+3. Which of the following statements about Python’s lambda functions is true?
+
+Options:
+A - lambda functions must have a return statement.
+B - lambda functions can take multiple arguments but must have a single expression.
+C - lambda functions must be named before they can be used.
+D - lambda functions can contain multiple statements like normal functions.
+
+
+
+
+
