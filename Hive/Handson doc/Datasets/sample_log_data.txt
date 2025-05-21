@@ -1,0 +1,100 @@
+2025-05-01 11:39:00,INFO,InventoryService,Order placed
+2025-05-01 11:25:00,WARN,PaymentService,Address not verified
+2025-05-01 12:49:00,ERROR,ShippingService,Shipping error
+2025-05-01 14:33:00,WARN,ShippingService,Slow response time
+2025-05-01 10:27:00,INFO,ShippingService,Inventory updated
+2025-05-01 14:11:00,INFO,PaymentService,Order placed
+2025-05-01 12:28:00,ERROR,OrderService,Payment failed
+2025-05-01 13:54:00,ERROR,OrderService,Payment failed
+2025-05-01 14:54:00,ERROR,AuthService,Order placement failed
+2025-05-01 10:54:00,WARN,OrderService,Address not verified
+2025-05-01 14:38:00,ERROR,ShippingService,Payment failed
+2025-05-01 11:18:00,INFO,OrderService,Order placed
+2025-05-01 12:44:00,INFO,PaymentService,Order placed
+2025-05-01 12:24:00,WARN,OrderService,Low stock alert
+2025-05-01 13:41:00,WARN,ShippingService,Inventory nearing threshold
+2025-05-01 10:51:00,ERROR,ShippingService,Order placement failed
+2025-05-01 12:25:00,WARN,PaymentService,Retrying payment
+2025-05-01 11:28:00,ERROR,PaymentService,Order placement failed
+2025-05-01 13:18:00,INFO,ShippingService,Inventory updated
+2025-05-01 10:42:00,INFO,OrderService,Order placed
+2025-05-01 13:16:00,INFO,InventoryService,Order placed
+2025-05-01 14:26:00,INFO,AuthService,Shipping started
+2025-05-01 10:58:00,WARN,InventoryService,Address not verified
+2025-05-01 12:04:00,ERROR,ShippingService,User authentication failed for user 105
+2025-05-01 10:04:00,INFO,InventoryService,Order placed
+2025-05-01 11:04:00,WARN,ShippingService,Address not verified
+2025-05-01 13:56:00,ERROR,OrderService,Order placement failed
+2025-05-01 10:12:00,WARN,OrderService,Address not verified
+2025-05-01 11:26:00,WARN,OrderService,Inventory nearing threshold
+2025-05-01 11:32:00,INFO,AuthService,User login successful for user 102
+2025-05-01 13:32:00,ERROR,InventoryService,Shipping error
+2025-05-01 14:49:00,WARN,AuthService,Low stock alert
+2025-05-01 12:44:00,WARN,InventoryService,Inventory nearing threshold
+2025-05-01 10:27:00,INFO,PaymentService,Inventory updated
+2025-05-01 11:27:00,ERROR,InventoryService,Inventory sync error
+2025-05-01 11:52:00,INFO,ShippingService,Inventory updated
+2025-05-01 10:19:00,WARN,AuthService,Low stock alert
+2025-05-01 10:17:00,INFO,AuthService,User login successful for user 110
+2025-05-01 13:03:00,ERROR,ShippingService,Shipping error
+2025-05-01 10:30:00,INFO,OrderService,Payment processed
+2025-05-01 10:31:00,WARN,OrderService,Address not verified
+2025-05-01 10:28:00,ERROR,OrderService,Order placement failed
+2025-05-01 11:36:00,INFO,InventoryService,Inventory updated
+2025-05-01 10:18:00,WARN,PaymentService,Address not verified
+2025-05-01 11:40:00,INFO,PaymentService,Payment processed
+2025-05-01 11:21:00,INFO,PaymentService,User login successful for user 106
+2025-05-01 10:51:00,ERROR,InventoryService,Inventory sync error
+2025-05-01 12:41:00,ERROR,OrderService,Shipping error
+2025-05-01 12:40:00,INFO,AuthService,Shipping started
+2025-05-01 14:31:00,WARN,OrderService,Retrying payment
+2025-05-01 14:49:00,ERROR,ShippingService,User authentication failed for user 106
+2025-05-01 14:56:00,ERROR,PaymentService,Shipping error
+2025-05-01 11:31:00,ERROR,PaymentService,User authentication failed for user 104
+2025-05-01 12:31:00,ERROR,ShippingService,User authentication failed for user 101
+2025-05-01 11:33:00,WARN,AuthService,Slow response time
+2025-05-01 10:14:00,ERROR,InventoryService,Inventory sync error
+2025-05-01 12:54:00,WARN,AuthService,Low stock alert
+2025-05-01 11:08:00,INFO,PaymentService,User login successful for user 107
+2025-05-01 13:14:00,ERROR,ShippingService,User authentication failed for user 109
+2025-05-01 10:34:00,ERROR,OrderService,Payment failed
+2025-05-01 10:38:00,INFO,AuthService,Shipping started
+2025-05-01 10:25:00,INFO,PaymentService,Inventory updated
+2025-05-01 11:16:00,INFO,ShippingService,User login successful for user 100
+2025-05-01 13:18:00,INFO,ShippingService,Inventory updated
+2025-05-01 11:43:00,WARN,OrderService,Address not verified
+2025-05-01 13:15:00,ERROR,ShippingService,Payment failed
+2025-05-01 11:49:00,INFO,InventoryService,Shipping started
+2025-05-01 13:33:00,ERROR,OrderService,Inventory sync error
+2025-05-01 13:53:00,ERROR,OrderService,Payment failed
+2025-05-01 12:36:00,INFO,OrderService,Shipping started
+2025-05-01 14:59:00,ERROR,AuthService,Inventory sync error
+2025-05-01 13:28:00,ERROR,AuthService,Order placement failed
+2025-05-01 12:51:00,WARN,OrderService,Slow response time
+2025-05-01 10:14:00,INFO,ShippingService,User login successful for user 107
+2025-05-01 14:41:00,WARN,PaymentService,Inventory nearing threshold
+2025-05-01 11:13:00,ERROR,PaymentService,User authentication failed for user 109
+2025-05-01 14:13:00,INFO,OrderService,Shipping started
+2025-05-01 10:46:00,ERROR,InventoryService,Order placement failed
+2025-05-01 14:41:00,ERROR,ShippingService,Shipping error
+2025-05-01 10:04:00,WARN,AuthService,Inventory nearing threshold
+2025-05-01 12:46:00,INFO,PaymentService,Inventory updated
+2025-05-01 11:00:00,WARN,ShippingService,Low stock alert
+2025-05-01 11:38:00,ERROR,OrderService,Inventory sync error
+2025-05-01 10:11:00,WARN,InventoryService,Address not verified
+2025-05-01 11:11:00,ERROR,OrderService,User authentication failed for user 110
+2025-05-01 10:20:00,ERROR,PaymentService,User authentication failed for user 106
+2025-05-01 13:50:00,ERROR,ShippingService,Payment failed
+2025-05-01 12:55:00,ERROR,PaymentService,Order placement failed
+2025-05-01 11:13:00,ERROR,AuthService,Inventory sync error
+2025-05-01 10:54:00,WARN,OrderService,Inventory nearing threshold
+2025-05-01 14:01:00,INFO,AuthService,User login successful for user 102
+2025-05-01 10:06:00,ERROR,PaymentService,Payment failed
+2025-05-01 13:51:00,WARN,AuthService,Address not verified
+2025-05-01 14:18:00,WARN,OrderService,Retrying payment
+2025-05-01 11:01:00,INFO,AuthService,Order placed
+2025-05-01 10:35:00,ERROR,PaymentService,Inventory sync error
+2025-05-01 11:40:00,WARN,ShippingService,Slow response time
+2025-05-01 11:54:00,WARN,PaymentService,Retrying payment
+2025-05-01 11:53:00,INFO,AuthService,Order placed
+2025-05-01 13:01:00,INFO,InventoryService,Order placed
