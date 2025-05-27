@@ -1,8 +1,0 @@
-1.create external table logs(log_date STRING,log_level STRING,service_name STRING,message STRING)row format delimited fields terminated by ',' stored as textfile LOCATION '/user/hive/logs';
-
-2.load data INPATH '/user/cloudera/ust/sample_log_data.txt' into table logs;     
-
-3.create table partitioned_table1(service_name STRING,message STRING) partitioned by(log_date STRING,log_level STRING)row format delimited fields terminated by ',';
-
-4.from logs l insert overwrite table partitioned_table1 partition(log_date,log_level) select l.service_name,l.message,l.log_date,l.log_level;
-
