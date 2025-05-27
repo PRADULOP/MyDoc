@@ -1,0 +1,18 @@
+1. hadoop fs -ls /user/hdfs : List files in a directory
+
+2. hadoop fs -mkdir /user/hdfs/new : Creates a new Directory
+
+3. hadoop fs -put 'source_path' 'destination_path' : Moves a file
+
+4. hadoop fs -cat /user/hdfs/new/file.txt : View a file
+
+5. hadoop fs -rm /user/hdfs/new/file.txt : Remove a file
+
+6. hadoop fsck /user/hdfs/new/file.txt : Checks the health of entire hdfs and to get the details of storage blocks
+
+7. hadoop fs -setrep 2 /user/hdfs/new : Change Replication Factor
+
+8. hadoop dfs -copyFromLocal /home/cloudera/Desktop/HiveDocs/txns.txt/ : Copies files from local to hdfs
+
+9. hadoop fs -rmdir /path : Removes an empty Directory
+

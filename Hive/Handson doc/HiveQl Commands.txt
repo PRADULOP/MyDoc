@@ -1,0 +1,26 @@
+1.create database pradul;
+
+2.show databases;
+
+3.use pradul;
+
+
+4.hadoop dfs -copyFromLocal /path
+
+
+5.create table txnrecords(txnno INT,txndate STRING,cusno INT,amount DOUBLE,category STRING,city STRING,state STRING,spendby STRING)row format delimited fields terminated by ',' stored as textfile;
+
+6.describe formatted txnrecords;
+
+7.LOAD DATA INPATH 'user/hdfs/txns.txt' OVERWRITE INTO TABLE txnrecords;
+
+8.create table customer(custno STRING,firstname STRING,lastname STRING,age INT,profession STRING)row format delimited fields terminated by ',';
+
+9.load data local inpath '/path' into table customer;
+
+10.select count(*) from txnrecords;
+
+11.create external table example_customer(customer STRING,firstname STRING,lastname STRING,age INT,profession STRING)row format delimited 
+    fields terminated by ',' LOCATION '/user/external';
+
+12.from customer cus insert overwrite table example_customer select cus.custno,cus.firstname,cus.lastname,cus.age,cus.profession;
